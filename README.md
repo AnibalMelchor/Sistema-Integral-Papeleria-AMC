@@ -90,6 +90,7 @@ Mejorar la interfaz visual (frontend moderno), el frontEnd se realizo con ayuda 
 
 Desplegar la aplicación completa en la nube (Railway / Render / Oracle Cloud).
 
+Mejoras en codigo para que sea mas limpio, mastenible y escalable.
 
 🧑‍💻 Autor
 
